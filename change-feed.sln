@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosChangeFeed", "CosmosChangeFeed\CosmosChangeFeed.csproj", "{4ADC4F6A-890B-6FD5-E17F-1CE0DD3C4944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADC4F6A-890B-6FD5-E17F-1CE0DD3C4944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADC4F6A-890B-6FD5-E17F-1CE0DD3C4944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADC4F6A-890B-6FD5-E17F-1CE0DD3C4944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADC4F6A-890B-6FD5-E17F-1CE0DD3C4944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490EBCCD-C64C-459B-BBC3-76582A1AD667}
+	EndGlobalSection
+EndGlobal
